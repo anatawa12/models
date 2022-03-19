@@ -8,6 +8,6 @@ If copyright notice is requested in the license and not specified in license, pl
 
 ## List of Models
 
-- `Glasses.mqo` the model of glasses. Published under [CC-BY-4.0].
+- `accessories.blend` the model of accessories. Published under [CC-BY-4.0].
 
 [CC-BY-4.0]: https://creativecommons.org/licenses/by/4.0/deed
